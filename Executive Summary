@@ -1,1 +1,86 @@
+Executive Summary
+Project Overview
 
+This project analyzes the Netflix Titles dataset using SQL to extract meaningful business insights from content metadata. The analysis covers data understanding, schema validation, data quality assessment, exploratory data analysis, KPI reporting, SQL querying, window functions, common table expressions (CTEs), ranking analysis, time series analysis, and content segmentation.
+
+The primary objective is to demonstrate end-to-end SQL skills required for a Data Analyst role while answering real business questions through structured analysis.
+
+Key Highlights
+Designed and analyzed the Netflix database schema.
+Performed comprehensive data quality assessment to identify missing values, duplicate records, and data inconsistencies.
+Conducted exploratory analysis to understand content distribution, release trends, ratings, and metadata completeness.
+Developed business KPIs to summarize catalog performance.
+Solved business problems using Basic, Intermediate, and Advanced SQL queries.
+Applied Window Functions and CTEs to write efficient and scalable analytical queries.
+Performed Ranking Analysis to identify top-performing countries, directors, ratings, and release years.
+Conducted Time Series Analysis to understand Netflix's content acquisition trends.
+Built meaningful Content Segmentation to categorize content by type, duration, release period, and metadata availability.
+Documented analyses that were not applicable (Cohort Analysis, RFM Analysis, Revenue Analysis) with clear business justification.
+Business Outcomes
+
+The project provides insights into:
+
+Overall content composition (Movies vs TV Shows)
+Growth of the Netflix content library over time
+Major content-producing countries
+Audience rating distribution
+Release year trends
+Duration patterns for movies and TV shows
+Metadata quality issues
+Content acquisition strategy
+
+These insights can support content planning, catalog optimization, and strategic decision-making.
+
+Technical Skills Demonstrated
+SQL Query Writing
+Database Design Understanding
+Schema Analysis
+Data Cleaning & Validation
+Exploratory Data Analysis (EDA)
+KPI Development
+Aggregate Functions
+CASE Expressions
+String Functions
+Date Functions
+Subqueries
+Window Functions
+Common Table Expressions (CTEs)
+Ranking Techniques
+Time Series Analysis
+Business Insight Generation
+Project Deliverables
+Business Understanding
+Database Understanding
+Schema Analysis
+Data Dictionary
+Data Quality Assessment
+Exploratory Data Analysis
+KPI Analysis
+Basic SQL Queries
+Intermediate SQL Queries
+Advanced SQL Queries
+Window Functions
+CTE Analysis
+Ranking Analysis
+Time Series Analysis
+Content Segmentation
+Business Insights
+Executive Summary
+-------------------------
+
+Limitations
+
+The dataset contains content metadata only and does not include:
+
+Customer information
+Viewing history
+Subscription details
+Revenue or financial data
+Transaction records
+
+Therefore, Cohort Analysis, RFM Analysis, and Revenue Analysis were intentionally excluded because they are not supported by the available data.
+
+
+Transaction records
+
+Therefore, Cohort Analysis, RFM Analysis, and Revenue Analysis were intentionally excluded because they are not supported by the available data.
